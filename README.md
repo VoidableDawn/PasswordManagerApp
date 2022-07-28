@@ -5,6 +5,6 @@ Uses random characters generated to create a sequence at least 8 characters long
 # Usage
 * Install python 3 on your pc
   https://www.python.org/downloads/
-* clone or download src
+* Clone or download src
 * Navigate to root of src in cli
-* run "python main"
+* Run "python main"
